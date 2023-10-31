@@ -1,0 +1,4 @@
+docker --version
+node index.js
+docker build -t partb .
+docker images
